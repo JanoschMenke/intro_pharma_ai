@@ -1,20 +1,14 @@
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" ><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="Open In Colab"/></a> 
 <h1 align ="center">Welcome to: <br> "Introduction to Artificial Intelligence for Life Science Students"</h1>
 
 This repository contains a collection of Jupyter Notebooks, which can be used to teach pharmaceutical and chemistry students the basics of Deep Learning. No prior coding knowledge is required. The article introducing this repository can be found here: https://doi.org/10.1002/ardp.202200628 and was written by [Janosch Menke](https://github.com/JanoschMenke), [Samuel Homberg](https://github.com/SamuelHomberg) and [Oliver Koch](https://github.com/okochwwu).
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
 
 This work was funded by the "[Apotheker Stiftung Westfalen-Lippe](https://www.akwl.de/apothekerstiftung/)"
 
@@ -24,13 +18,9 @@ This work was funded by the "[Apotheker Stiftung Westfalen-Lippe](https://www.ak
 
 2. **Local Installation** <br> If you do not want to run the notebooks through a Google service, you can also setup your own local Python environment. We provide an instruction on how to do this. Like with Colab all notebooks will work straight away, as soon as the local installation has been completed.
 
-
-![](Notebooks_GR/Img/general/hello.png)
-
-
 Notebook | English | German
 -------- | ------- | ------
-**01\. Introduction to Jupyter** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kochgroup/intro_pharma_ai/blob/main/Notebooks_EN/01%20-%20Introduction%20to%20Jupyter.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kochgroup/intro_pharma_ai/blob/main/Notebooks_GER/Woche%2001%20-%20Einf%C3%BChrung%20Jupyter.ipynb)   
+**01\. Introduction to Jupyter** | <a href="https://colab.research.google.com/github/kochgroup/intro_pharma_ai/blob/main/Notebooks_EN/01%20-%20Introduction%20to%20Jupyter.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kochgroup/intro_pharma_ai/blob/main/Notebooks_GER/Woche%2001%20-%20Einf%C3%BChrung%20Jupyter.ipynb)   
 **02\. Introduction to Python**| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kochgroup/intro_pharma_ai/blob/main/Notebooks_EN/02%20-%20Introduction%20to%20Python.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kochgroup/intro_pharma_ai/blob/main/Notebooks_GER/Woche%2002%20-%20Einführung%20Python.ipynb)  
 **03\. Cheminformatics & RDKit** |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kochgroup/intro_pharma_ai/blob/main/Notebooks_EN/03%20-%20Cheminformatics.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kochgroup/intro_pharma_ai/blob/main/Notebooks_GER/Woche%2003%20-%20Chemieinformatik.ipynb)
 **04\. Linear Regression** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kochgroup/intro_pharma_ai/blob/main/Notebooks_EN/04%20-%20Linear%20Regression.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kochgroup/intro_pharma_ai/blob/main/Notebooks_GER/Woche%2004%20-%20Lineare%20Regression.ipynb)
